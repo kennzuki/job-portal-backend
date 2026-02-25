@@ -1,1 +1,1 @@
-# job-portal-api
+# job-portal-backend
